@@ -1,3 +1,5 @@
+![headshot](./images/headshot.jpg
+
 # Reselbob Learning
 
 ## Instruqt Courses and Playground
