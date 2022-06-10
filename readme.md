@@ -1,4 +1,4 @@
-![headshot](./images/headshot.jpg
+![headshot](./images/headshot.jpg)
 
 # Reselbob Learning
 
