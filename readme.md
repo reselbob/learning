@@ -14,7 +14,6 @@
 * [Introduction to using jq to parse JSON data from the command line](https://play.instruqt.com/embed/cogarttech/tracks/using-jq?token=em_1tNVtQ8jWNBa9_BV)
 * [Using Jenkinsfile to implement a GitOps CI/CD process](https://play.instruqt.com/embed/cogarttech/tracks/jenkins-vm?token=em_7Gd-yAHyJyJYuOm5)
 * [Working with the Kubernetes Configuration Manager](https://play.instruqt.com/embed/cogarttech/tracks/k8s-config-mgr?token=em_GZqK0gd1Cwx1utNo)
-* [Working with the Quay.io Container Image Repository](https://play.instruqt.com/embed/cogarttech/tracks/working-with-the-quay-io-container-image-repository?token=em_jrJ0J2WmfKrGO27v)
 
 
 ## Instruqt Playgrounds
