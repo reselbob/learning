@@ -23,6 +23,5 @@
 * [Deno Playground](https://play.instruqt.com/embed/cogarttech/tracks/deno-playground?token=em_VwnvNIKJ5WHekBLf)
 * [Docker Playground](https://play.instruqt.com/embed/cogarttech/tracks/docker-playground?token=em_4Dm3ZBd3E_z8bP_F)
 * [K8S Hierarchical Namespaces Playground](https://play.instruqt.com/embed/cogarttech/tracks/k8s-hierarchical-namespace-playground?token=em_T-r6hPLNOQfawTdn)
-* [Minikube Playground](https://play.instruqt.com/embed/cogarttech/tracks/minikube-playground?token=em_bUVnPMN3CZgNz5ap)
 * [Mongodb Query Playground](https://play.instruqt.com/embed/cogarttech/tracks/mongodb-query-playground?token=em_3yTmrCtsxhOn6Euz)
 
