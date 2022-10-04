@@ -6,7 +6,6 @@
 
 * [Create An OCI Compliant Linux Container Image Using Podman, buildah and a local container repository](https://play.instruqt.com/embed/cogarttech/tracks/create-an-oci-compliant-linux-container-image-using-podman?token=em_vWkzBQkrksy1UA_c)
 * [Applying Cascading Capabilities to Hierarchical Namespaces in a Kubernetes Multi-Tenant Cluster](https://play.instruqt.com/embed/cogarttech/tracks/applying-cascading-capabilities-to-hns?token=em_LHHdNNBHoRy_MIhp)
-* [Working with Users in Kubernetes Hierarchical Namespaces]()
 * [Creating an SSL Certificate Using K8s Certificate Manager](https://play.instruqt.com/embed/cogarttech/tracks/k8s-cert-mgr?token=em_LVqQix7l20xYJrfo)
 * [Getting Up to Speed With PodMan](https://play.instruqt.com/embed/cogarttech/tracks/getting-up-to-speed-with-podman?token=em_dtE7OLvVzs38dHtA)
 * [Introduction to Clojure List Processing using Leiningen](https://play.instruqt.com/embed/cogarttech/tracks/introduction-to-clojure-list-processing?token=em_CWRmee14mCoIpIGq)
